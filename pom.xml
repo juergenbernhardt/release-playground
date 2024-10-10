@@ -4,7 +4,7 @@
 
     <groupId>com.example.playground</groupId>
     <artifactId>playground</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -25,7 +25,7 @@
         <developerConnection>
             scm:git:https://github.com/juergenbernhardt/release-playground
         </developerConnection>
-      <tag>playground-1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 
